@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src=https://user-images.githubusercontent.com/32812860/217809375-751092b8-b1de-488b-b02a-38eaa64b0301.png></img>
   </h1>
-![typing_speed](https://user-images.githubusercontent.com/32812860/217808499-41c0f8d8-eb09-4f83-b1ef-300fe5d3be7a.gif)
 
 <h4 align="center">
   A Tkinter GUI desktop application that tests typing speed.
